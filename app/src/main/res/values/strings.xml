@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaDocViewer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="auto_complete_initial_text">Type Java Class Here</string>
+</resources>

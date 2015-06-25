@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".JavaDocViewer">
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/back_button"
+        android:title="Back"
+        android:icon="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+        app:showAsAction="always"/>
+
+</menu>
